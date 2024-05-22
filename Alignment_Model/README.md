@@ -3,7 +3,7 @@ Implementation of the automatic alignment model from the paper **"Aligning Actio
 
 ## Requirements
 You can find all the requirements in the file `requirement.txt`.
-- Python 3.7
+- Python 3.9
 - Conllu 4.2.2
 - Matplotlib 3.3.2
 - Pandas 1.2.3
